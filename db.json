@@ -1,18 +1,6 @@
 {
     "posts": [
       {
-        "id": 7,
-        "title": "Blog post #7",
-        "category": "Health",
-        "image": "https://source.unsplash.com/random/200x200?sig=1",
-        "author_image": "https://picsum.photos/100",
-        "author": "Merna Mitchel",
-        "publish_date": "2016-09-16",
-        "slug": "blog-post-7",
-        "description": "Velit doming vis te, ut vim fugit abhorreant.",
-        "content": "<p>Velit doming vis te, ut vim fugit abhorreant. Eirmod reformidans duo at, ne nam virtute commune, sit cu esse vidit zril.</p> <p>Iusto officiis eloquentiam cum ea, eu case interpretaris duo. Duis ancillae an pro, vel idque error alienum at. An nec graeco equidem, unum eripuit ea sit.</p>"
-      },
-      {
         "id": 1,
         "title": "Blog post #1",
         "category": "Tech",
